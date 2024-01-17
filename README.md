@@ -70,8 +70,11 @@
 
  
 <div id="sfcx3nkqjuwkkxfy2tkpqrc798w7eefljeq"></div>
-<br><a href="https://www.webcontadores.com"></a><noscript><a href="https://www.webcontadores.com" title="contador para blog">
-<img src="https://counter7.optistats.ovh/private/webcontadores.php?c=x3nkqjuwkkxfy2tkpqrc798w7eefljeq" border="0" title="contador para blog" alt="contador para blog"></a>
+ <br><a href="https://www.webcontadores.com"></a>
+  <noscript>
+   <a href="https://www.webcontadores.com" title="contador para blog">
+  <img src="https://counter7.optistats.ovh/private/webcontadores.php?c=x3nkqjuwkkxfy2tkpqrc798w7eefljeq" border="0" title="contador para blog" alt="contador para blog">
+ </a> 
 </noscript>
   
   
